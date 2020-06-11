@@ -1,0 +1,92 @@
+[
+	{
+		"productName": "Settlement",
+		"serialNumber": "1",
+		"price": "4",
+		"manufacturer": "catan",
+		"tag": "basic",
+		"total": "6",
+		"url": "https://i.etsystatic.com/14913026/r/il/7bb1e2/1511348647/il_570xN.1511348647_74h6.jpg"
+	},
+	{
+		"productName": "City",
+		"serialNumber": "2",
+		"price": "5",
+		"manufacturer": "catan",
+		"tag": "advanced",
+		"total": "4",
+		"url": "https://i.etsystatic.com/14913026/r/il/4b0509/1464093670/il_570xN.1464093670_im87.jpg"
+	},
+	{
+		"productName": "Road",
+		"serialNumber": "3",
+		"price": "2",
+		"manufacturer": "catan",
+		"tag": "basic",
+		"total": "15",
+		"url": "https://i.etsystatic.com/14913026/r/il/321090/1511348835/il_570xN.1511348835_j4lh.jpg"
+	},
+	{
+		"productName": "Knight",
+		"serialNumber": "4",
+		"price": "3",
+		"manufacturer": "catan",
+		"tag": "development",
+		"total": "15",
+		"url": "https://miro.medium.com/max/5042/1*dH9-b8I3uOeSXVjsr5P2RA.jpeg"
+	},
+	{
+		"productName": "Victory Point",
+		"serialNumber": "5",
+		"price": "3",
+		"manufacturer": "catan",
+		"tag": "development",
+		"total": "5",
+		"url": "https://catanfusion.com/images/OriginalChapelVictoryPointCard.jpg"
+	},
+	{
+		"productName": "Monopoly",
+		"serialNumber": "6",
+		"price": "3",
+		"manufacturer": "catan",
+		"tag": "development",
+		"total": "5",
+		"url": "https://miro.medium.com/max/4642/1*CUcpK3BDp6nlwWSNd0Y9FQ.jpeg"
+	},
+	{
+		"productName": "Ships",
+		"serialNumber": "7",
+		"price": "5",
+		"manufacturer": "Cities & Knights",
+		"tag": "advanced",
+		"total": "5",
+		"url": "https://www.spielematerial.de/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/p/0/p0017-01_1.jpg"
+	},
+	{
+		"productName": "Walls",
+		"serialNumber": "8",
+		"price": "2",
+		"manufacturer": "Cities & Knights",
+		"tag": "basic",
+		"total": "3",
+		"url": "https://i.ebayimg.com/images/g/mOYAAOSwnLdWsRA7/s-l400.jpg"
+	},
+	{
+		"productName": "Port",
+		"serialNumber": "9",
+		"price": "4",
+		"manufacturer": "catan",
+		"tag": "advanced",
+		"total": "1",
+		"url": "https://vignette.wikia.nocookie.net/catan/images/2/2f/Harbors.jpg/revision/latest/scale-to-width-down/340?cb=20150620190616"
+	},
+	{
+		"productName": "Science",
+		"serialNumber": "10",
+		"price": "2",
+		"manufacturer": "Cities and Knights",
+		"tag": "development",
+		"total": "1",
+		"url": "https://www.ultraboardgames.com/catan/gfx/inventor.jpg"
+	}
+]
